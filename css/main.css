@@ -625,6 +625,7 @@ main .site-header .logo a {
 
     main h1 {
         font: 32px/1.2em "montserrat-bold", sans-serif;
+        font-weight: 900;
     }
 
     main p {
@@ -644,6 +645,7 @@ main .site-header .logo a {
 
     main h1 {
         font: 30px/1.2em "montserrat-bold", sans-serif;
+        font-weight: 900;
     }
 
     main p {
@@ -663,6 +665,7 @@ main .site-header .logo a {
 
     main h1 {
         font: 28px/1.2em "montserrat-bold", sans-serif;
+        font-weight: bold;
     }
 
     main p {
