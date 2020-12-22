@@ -25,7 +25,7 @@
     /* Final Countdown Settings
     ------------------------------------------------------ */
 
-    $('#counter').countdown('2021/10/10', function(event) {
+    $('#counter').countdown('2021/01/04', function(event) {
         var $this = $(this).html(event.strftime(''
                                                 + '<span>%D <em>days</em></span>'
                                                 + '<span>%H <em>hours</em></span>'
