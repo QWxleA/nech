@@ -1593,39 +1593,9 @@ footer a:focus {
 
 }
 
-#address::before {
-    color: white;
-    font-family: 'FontAwesome';
-    font-size: 14px;
-    content: "\f015";
-    /* height: 32px; */
-    /* width: 32px; */
-    /* line-height: 32px; */
-    margin-right: 0.5em;
+.qmargin22::after {
+    margin: 0 1em;
 }
-
-#phone::before {
-    color: white;
-    font-family: 'FontAwesome';
-    font-size: 14px;
-    content: "\f095";
-    /* height: 32px; */
-    /* width: 32px; */
-    /* line-height: 32px; */
-    margin-right: 0.3em;
-}
-
-#sep::before {
-    color: white;
-    font-family: 'FontAwesome';
-    font-size: 14px;
-    content: "\f141";
-    /* height: 32px; */
-    /* width: 32px; */
-    /* line-height: 32px; */
-    /* margin-right: 0.5em; */
-}
-
 
 #address, #phone {
     /* background: pink; */
