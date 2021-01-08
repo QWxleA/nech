@@ -1593,10 +1593,6 @@ footer a:focus {
 
 }
 
-.qmargin22::after {
-    margin: 0 1em;
-}
-
 #address, #phone {
     /* background: pink; */
     font-weight: bold;
